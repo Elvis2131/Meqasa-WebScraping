@@ -11,7 +11,6 @@ The aim of this project was to scrape housing information from [MeQasa](https://
 * description
 * price
 * curreny (GHS or $)
-* rent_period
 * url 
 * address
 * time_posted
@@ -39,6 +38,3 @@ A step by step series of examples that tell you how to get a development env run
 pip install requests beautifulsoup4 lxml
 ```
 
-## Acknowledgments
-
-* Hisham Osman
